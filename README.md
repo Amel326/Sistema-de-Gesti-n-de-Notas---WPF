@@ -30,7 +30,7 @@ Este proyecto es una aplicación de escritorio desarrollada en C# utilizando WPF
 
 ## **Requisitos**
 - .NET Framework
-- Visual Studio para ejecutar el proyecto
+- Visual Studio 2022 para ejecutar el proyecto
 
 ## **Contribuciones**
 Las contribuciones son bienvenidas. Si deseas mejorar la aplicación o agregar nuevas funcionalidades, no dudes en hacer un fork del repositorio y enviar un pull request.
